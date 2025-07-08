@@ -4,7 +4,7 @@ O **Azure Language Studio** é uma plataforma baseada na web que permite explora
 
 Através da interface visual do Language Studio, você pode acessar recursos como extração de informações, classificação de texto, compreensão de linguagem conversacional e geração de resumos.
 
-<img src="AZURE_LANGUAGE_STUDIO.jpg" alt="Azure Language Studio" style="max-width: 100%; height: auto;">
+<img src="AZURE_LANGUAGE_STUDIO.png" alt="Azure Language Studio" style="max-width: 100%; height: auto;">
 ---
 
 ## 📌 Recursos Principais
